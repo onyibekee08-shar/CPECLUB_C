@@ -1,2 +1,2 @@
 # CPECLUB_C
-Just my projects 
+My step by step development🙂
